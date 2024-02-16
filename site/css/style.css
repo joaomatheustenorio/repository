@@ -4,9 +4,9 @@
     padding: 0px;
 }
 :root {
-    --corprincipal : #4F18DB;
-    --cor02 : #8F18DB;
-    --cor03 : #CE18DB;
+    --corprincipal : #28DA7B;
+    --cor02 : #17B963;
+    --cor03 : #1B6D41 ;
 }
 body{
     background-color:#3C4741;
