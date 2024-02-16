@@ -4,9 +4,9 @@
     padding: 0px;
 }
 :root {
-    --corprincipal : #28DA7B;
-    --cor02 : #17B963;
-    --cor03 : #1B6D41 ;
+    --corprincipal : #5a5a5a;
+    --cor02 : #363636;
+    --cor03 : #252525 ;
 }
 body{
     background-color:#3C4741;
@@ -72,5 +72,9 @@ footer{
     background-color: #ffffff;
     padding: 5px;
     text-align: center;
-    margin: 20px 20px 0px 20px;
+    min-width: 300px;
+    max-width: 500px;
+    margin: auto;
+    margin-top: 20px;
+    border-radius: 20px;
 }
