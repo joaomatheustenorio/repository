@@ -16,6 +16,7 @@ header{
     background-color: var(--corprincipal);
     text-align: center;
     padding: 20px;
+    color: white;
 }
 header p{
     padding: 20px;
@@ -44,13 +45,14 @@ nav{
     display: grid;
     border-radius: 20px;
     margin: 20px 0px;
+    color: white;
 }
 nav a{
     text-align: center;
     margin: 10px;
     padding: 5px;
     background-color: var(--cor02);
-    color: black;
+    color: rgb(255, 255, 255);
     text-decoration: none;
     border-radius: 5px;
     border: #000000 2px solid;

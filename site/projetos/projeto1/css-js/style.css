@@ -1,0 +1,16 @@
+@charset "UTF-8";
+*{
+    padding: 0px;
+    margin: 0px;
+}
+header{
+    background-color: rgb(190, 13, 13);
+    color: white;
+    text-align: center;
+}
+header nav a{
+    color: white;
+    font-size: 20px;
+    text-decoration:none;
+    display: inline;
+}
